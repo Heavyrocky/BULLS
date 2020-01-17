@@ -1,0 +1,1 @@
+/home/mauro/Documentos/lab_python/flask_sqlaclhemy/thing_app/app.py
